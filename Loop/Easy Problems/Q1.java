@@ -1,5 +1,4 @@
-// Print the sum of first N natural numbers.
-
+// Print numbers from 1 to N.
 class Main {
  public static void main(String[] args) {
  int N = 10;
